@@ -51,8 +51,8 @@
 ```
 INSTALLATION : (Linux/Win)
 
-git clone 
-cd HASHME
+git clone https://github.com/Kickwinnerz/Mtml.git
+cd Mtml
 pip3 install -r requirements.txt
 python3 hashme.py
 
